@@ -43,9 +43,3 @@ jupyter lab
 
 4. All dataset files are under `data/archive/heart.csv`. Running the notebook cells in order reproduces the EDA, model training, and evaluation.
 
-**Notes & Next Steps**
-- To improve performance, try additional models (Random Forest, XGBoost), hyperparameter tuning, cross-validation, and feature engineering.
-- Consider adding `requirements.txt` or a `conda` environment file for exact reproducibility.
-
----
-Generated from the project notebook `notebook/heart_disease_prediction.ipynb`.
